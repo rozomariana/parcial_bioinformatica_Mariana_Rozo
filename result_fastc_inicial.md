@@ -16,6 +16,8 @@ las seucencias deben ser filtradas dado que no presneta una calidad correcta en 
 
 # APLIQUE KMER ANTES  Y DESPUES  (los archovos estan en la carpeta comprimida del parcial)
 Análisis:  Al comparart antes y depsues de los recortes se reconoce que disminuye la cantidad de singletongs gracias al recorte con trimomatic
+[Link](https://github.com/rozomariana/parcial_bioinformatica_Mariana_Rozo/blob/main/after.histo)
+[Link](https://github.com/rozomariana/parcial_bioinformatica_Mariana_Rozo/blob/main/beforekmer1.histo)
 
 #REALICE EN ENSAMBLAJE Y CALCULE ESTADISTICOS
 <img width="1292" height="528" alt="image" src="https://github.com/user-attachments/assets/17d4ac22-073a-49f6-8a54-7bec5c0dac4d" />
