@@ -10,7 +10,7 @@ Redacte en el README las respuestas anteriores (nota: si no utiliza Markdown, pu
 
 Punto 1.
 -scribs usados y paso a paso tomado en: [link] ()
--Análisis [Link[ ( )
+-Análisis [Link](https://github.com/rozomariana/parcial_bioinformatica_Mariana_Rozo/blob/main/result_fastc_inicial.md )
 
 -Análisis de calidad de las secuencias (Inicial)
 -Reporte los resultados y discuta si las secuencias tienen buena calidad o no y por qué.
