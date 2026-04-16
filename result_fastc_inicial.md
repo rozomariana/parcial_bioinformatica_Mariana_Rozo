@@ -4,7 +4,7 @@ Análsiis:
 Analisis: Se videncia que en toda la secuencia prevalece valores de caliudad por prres de bases muy alta y buena
 
 <img width="725" height="489" alt="image" src="https://github.com/user-attachments/assets/4b375c9d-f758-421e-8f28-164c81512cf5" />
-El porcentaje GC% de la secuecnia mantiene el patron esperado y los valores de u  rango de 30 -44 %
+El porcentaje GC% de la secuecnia NO mantiene el patron esperado y los valores de u  rango de 30 -44 % existen ciertas irregularidades
 
 <img width="757" height="438" alt="image" src="https://github.com/user-attachments/assets/ca9f9d33-3486-435e-b245-8dd410699d60" />
 Existe una sobre expreision de las secuencias
@@ -12,6 +12,7 @@ Existe una sobre expreision de las secuencias
 <img width="756" height="517" alt="image" src="https://github.com/user-attachments/assets/58528996-b139-4408-826e-a7a55878a6d6" />
 La calidad en las ultimas psociones de las encunia son bajas
 
+las seucencias deben ser filtradas dado que no presneta una calidad correcta en tdoas las estadisticas.
 
 # APLIQUE KMER ANTES  Y DESPUES  (los archovos estan en la carpeta comprimida del parcial)
 Análisis:  Al comparart antes y depsues de los recortes se reconoce que disminuye la cantidad de singletongs gracias al recorte con trimomatic
