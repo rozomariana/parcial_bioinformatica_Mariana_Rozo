@@ -1,7 +1,7 @@
 # parcial_bioinformatica_Mariana_Rozo
 Desarrollo del parcial 1 
 Punto 1.
--scribs usados y paso a paso tomado en: [link] ()
+-scribs usados y paso a paso tomado en: [link] ( https://github.com/rozomariana/parcial_bioinformatica_Mariana_Rozo/blob/main/Scribs_Parcial1_Mariana_Rozo_Rangel.md)
 -Análisis [Link](https://github.com/rozomariana/parcial_bioinformatica_Mariana_Rozo/blob/main/result_fastc_inicial.md )
 
 Punto 2:
